@@ -1,0 +1,6 @@
+.vs/
+BowlingGame.Console/bin/
+BowlingGame.Console/obj/
+BowlingGame.UnitTests/bin/
+BowlingGame.UnitTests/obj/
+packages/
